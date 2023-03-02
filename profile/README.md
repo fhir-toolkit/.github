@@ -13,3 +13,11 @@
 
 ## Sample FHIR API
 - https://hapi.fhir.org/baseR4/swagger-ui/
+- https://try.smilecdr.com/baseR4/swagger-ui/
+
+## HL7 FHIR Impllementations
+- https://hapifhir.io/
+- https://www.open-emr.org/
+- https://www.smilecdr.com/
+- https://fire.ly/
+- https://cloud.google.com/healthcare-api
